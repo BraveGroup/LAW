@@ -93,3 +93,9 @@ Please consider citing our work as follows if it is helpful.
       primaryClass={cs.CV}
 }
 ```
+
+## More from Us
+
+If you're interested in **world models** for autonomous driving,  or looking for a world model codebase on NAVSIM,  feel free to check out our latest work:
+
+- [**WoTE (ICCV 2025)**]([https://github.com/BraveGroup/LAW](https://github.com/liyingyanUCAS/WoTE)): Using BEV world models for online trajectory evaluation in end-to-end autonomous driving.
